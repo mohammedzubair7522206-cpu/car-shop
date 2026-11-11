@@ -1,0 +1,6 @@
+{
+  "name": "ELITE DRIVE — Luxury & Performance Automotive Showroom",
+  "description": "Premium luxury automotive dealership and showroom featuring Porsche, Ferrari, BMW M, Mercedes-AMG, and Lamborghini. Find your next drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
